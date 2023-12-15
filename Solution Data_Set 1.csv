@@ -1,0 +1,5 @@
+MyUnknownColumn,Model,Maker,Type,Seats,Displacement,Length,Width,Height,Wheelbase,No_of_Cylinders,Fuel,Engine_Type,Transmission,Front_Brake,Rear_Brake,Drive,Turning_Radius,Fuel_Tank_Capacity,Boot_Space,Fuel_Efficiency,Emission_Type,Tyre_Size,Variants,NCAP_Rating
+9,Amaze,Honda,"Compact Sedan",5,1199,3995,1695,1501,2470,4,Petrol,"SOHC i-VTEC",CVT,Disc,Drum,2WD,4.7,35,420,18.3,"BS VI","175/65 R15",2,4
+8,Amaze,Honda,"Compact Sedan",5,1199,3995,1695,1501,2470,4,Petrol,"SOHC i-VTEC","5 MT",Disc,Drum,2WD,4.7,35,420,18.6,"BS VI","175/65 R15",3,4
+10,Amaze,Honda,"Compact Sedan",5,1498,3995,1695,1501,2470,4,Diesel,"DOHC i-DTEC","5 MT",Disc,Drum,2WD,4.9,35,420,24.7,"BS VI","175/65 R15",3,4
+11,Amaze,Honda,"Compact Sedan",5,1498,3995,1695,1501,2470,4,Diesel,"DOHC i-DTEC",CVT,Disc,Drum,2WD,4.9,35,420,21,"BS VI","175/65 R15",2,4
